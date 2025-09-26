@@ -50,6 +50,3 @@ To access admin portal type this in your URL bar: <root>/admin/
 5. Access the project via `http://localhost/<root>/`.  
 
 ---
-
-## License
-This project is for educational purposes only. Not intended for commercial use.
