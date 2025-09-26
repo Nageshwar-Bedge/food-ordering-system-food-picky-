@@ -7,23 +7,49 @@ This project is about ordering online food from your local restaurants. Anybody 
 
 ## Admin Dashboard
 
-To access admin portal type this in your URL BAR **\`root**/admin/ \`  where **root** is your root directory
+To access admin portal type this in your URL bar: <root>/admin/  
 
- **Admin credentials:** Username: **admin** Password: **1234**
+
+**Admin credentials:**  
+- Username: `admin`  
+- Password: `1234`  
+
+> Replace `<root>` with the root folder of your project in your local server (e.g., `http://localhost/food-picky/`).  
+
+---
 
 ## Technologies Used
+- PHP  
+- MySQL  
+- Bootstrap 4  
+- AJAX  
+- jQuery  
 
-1. PHP
-2. SQL
-3. BOOTSTRAP 4
-4. AJAX
-5. JQUERY
+---
 
 ## System Requirements
+- Local server software: XAMPP / WAMP / MAMP / LAMP  
+- Modern web browser  
 
-Software : XAMPP / Wamp / Mamp/ Lamp \(anyone\).
+---
 
+## Features
+- User registration and login  
+- Browse restaurant menus  
+- Add items to cart and checkout  
+- View order history  
+- Admin panel to manage restaurants, menus, categories, users, and orders  
 
-# For more projects, check out our channel ☺️
+---
 
-https://www.youtube.com/channel/UC4_6-VSWBw_QHMyjrDDEvVQ
+## Installation Instructions
+1. Install XAMPP/WAMP/MAMP/LAMP and start Apache and MySQL servers.  
+2. Clone or download this project folder into your local server directory (e.g., `htdocs` in XAMPP).  
+3. Create a MySQL database and import the provided SQL file.  
+4. Update database configuration in `config.php`.  
+5. Access the project via `http://localhost/<root>/`.  
+
+---
+
+## License
+This project is for educational purposes only. Not intended for commercial use.
